@@ -1,0 +1,68 @@
+{
+    "education": [
+      {
+        "image": "https://play-lh.googleusercontent.com/B_KgDoxpIeaXqrxMr3iBHfZtJGYU_XmOV_SlrOdVGuKkw_sqTWEgwuDTA4OSBC0K_w",
+        "altText": "Universitetet i Bergen logo",
+        "institution": "Universitetet i Bergen",
+        "degree": "Bachelor, Informasjonsvitenskap",
+        "startDate": "Aug 2023",
+        "endDate": "Jun 2026",
+        "description": "Studiet gir god kompetanse innen programmering, dataanalyse, kunstig intelligens, interaksjonsdesign og mer, med fokus på hvordan teknologi kan brukes for å løse komplekse problemer i samfunnet."
+      },
+      {
+        "image": "https://i.imgur.com/B2eW88S.png",
+        "altText": "Fagskolen Vestland logo",
+        "institution": "Fagskolen Vestland",
+        "degree": "Høyere Fagskolegrad, Bygg",
+        "startDate": "Sep 2018",
+        "endDate": "Mai 2021",
+        "description": "Studiet gir god kompetanse innen ledelse, økonomi, markedsføring, prosjektering og mer, med fokus på bærekraftige løsninger og det grønne skiftet."
+      }
+    ],
+    "experience": [
+      {
+        "image": "https://i.imgur.com/lg6vqWP.png",
+        "altText": "Chingu logo",
+        "company": "Chingu",
+        "position": "Community Manager, Utvilker",
+        "startDate": "Nov 2022",
+        "endDate": "Nåværende",
+        "description": "Som community manager i Chingu har jeg ansvar for å veilede og støtte medlemmer, og bidra til et positivt og inkluderende miljø for læring og samarbeid på Discord. Jeg er også med på å utvikle og vedlikeholde Chingu sin nettside og Discord botter."
+      },
+      {
+        "image": "https://i.imgur.com/x8EKEEg.png",
+        "altText": "Avarn Security logo",
+        "company": "Avarn Security",
+        "position": "Vekter",
+        "startDate": "Feb 2023",
+        "endDate": "Nåværende",
+        "description": "Vekter ved ulike bygg og anlegg i og rundt Bergen. Ansvarlig for å sikkerhet og forebygging av uønskede hendelser. Mye bruk av forskjellige IT systemer til loggføring og overvåkning."
+      }
+    ],
+    "recommendation": [
+      {
+        "image": "https://i.imgur.com/C9IZpz5.png",
+        "altText": "Scrimba logo",
+        "employer": "Guild Hernandez",
+        "position": "Learning Program Manager",
+        "company": "Scrimba",
+        "recommendation": "Ruben is an active community member at Scrimba, excelling at giving peer code reviews (via text and recorded videos) and supporting students with questions related to HTML, CSS, JavaScript, React, and more. Ruben's code reviews are top-notch because of their excellent coding skills, insightful feedback, and clear communication skills. I'd recommend Ruben to any team that needs a skilled, solution-focused developer and mentor! We are incredibly grateful that Ruben is a part of the Scrimba community."
+      },
+      {
+        "image": "https://i.imgur.com/sqzFGMZ.png",
+        "altText": "Sandviken Vedlikehold logo",
+        "employer": "Bjørn Engesæter",
+        "position": "Daglig Leder",
+        "company": "Sandviken Vedlikehold AS",
+        "recommendation": "Ruben er en hyggelig og åpen person som var veldig lett å samarbeide med. Fremstår som motivert, dyktig og alltid klar for nye utfordringer. Veldig pliktoppfyllende. Han var opptatt av god kvalitet i sitt og andres arbeid. Har god kjennskap og erfaring med IT og databaserte rutiner og driftsformer."
+      },
+      {
+        "image": "https://i.imgur.com/mnhV7QN.png",
+        "altText": "Stoltz Entreprenør logo",
+        "employer": "Vidar Hundvin",
+        "position": "HR-sjef",
+        "company": "Stoltz Entreprenør AS",
+        "recommendation": "Vi i er svært fornøyd med Ruben sin innsats i selskapet, og gir ham våre beste anbefalinger!"
+      }
+    ]
+  }
