@@ -1,0 +1,53 @@
+.education-div {
+    margin-top: 20px;
+
+    .edu-outer-div {
+        display: flex;
+        flex-direction: row;
+        max-width: 600px;
+    
+        border-radius: 10px;
+    
+        img {
+            width: 40px;
+            height: 40px;
+    
+            margin: 55px 30px;
+        }
+    
+        .edu-inner-div {
+            padding: 30px 0px;
+            padding-right: 30px;
+    
+            .edu-date {
+                font-size: 0.9em;
+                font-style: italic;
+                color: rgb(134, 134, 134);
+                letter-spacing: 0.01rem;
+            }
+            
+            h4 {
+                margin-top: 10px;
+                letter-spacing: 0.01rem;
+            }
+            
+            .edu-institution {
+                font-size: 0.9em;
+                color: rgb(134, 134, 134);
+                margin-top: 5px;
+                letter-spacing: 0.01rem;
+            }
+    
+            .edu-description {
+                letter-spacing: 0.01rem;
+                margin-top: 10px;
+            }
+        }
+    }
+}
+
+
+.edu-outer-div:nth-child(odd) {
+    background-color: rgb(230, 233, 238);
+    box-shadow: 0px 0px 10px -5px gray;
+}
